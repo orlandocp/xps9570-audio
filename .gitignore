@@ -1,0 +1,6 @@
+# Dell/Realtek driver binaries (proprietary, not redistributed): rebuild from README.md "Origen del driver"
+drivers/
+
+# Machine-specific data
+snapshots/
+*.log
